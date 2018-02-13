@@ -17,6 +17,7 @@ import './text-track-controls/chapters-button.js';
 import './text-track-controls/descriptions-button.js';
 import './text-track-controls/subtitles-button.js';
 import './text-track-controls/captions-button.js';
+import './text-track-controls/simple-captions-button.js';
 import './text-track-controls/subs-caps-button.js';
 import './audio-track-controls/audio-track-button.js';
 import './playback-rate-menu/playback-rate-menu-button.js';
